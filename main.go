@@ -8,7 +8,7 @@ import (
 func main() {
 	list := linkedList.New[int]()
 
-	list.Prepend(2)
+	list.Prepend(6)
 	list.Prepend(5)
 	list.Append(3)
 
